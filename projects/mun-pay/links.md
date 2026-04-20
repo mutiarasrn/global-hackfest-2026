@@ -1,7 +1,7 @@
 # MunPay — External Links
 
 ## Repository
-- GitHub: https://github.com/SyuraMoons/MunPay
+- GitHub: https://github.com/mutiarasrn/MunPay
 
 ## Demo
 - Live Demo: https://mun-pay.vercel.app/

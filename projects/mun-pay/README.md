@@ -85,7 +85,7 @@ MunPay is deployed on Conflux eSpace using native USDT0 — the cross-chain USDT
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/SyuraMoons/MunPay
+   git clone https://github.com/mutiarasrn/MunPay
    cd MunPay
    ```
 
